@@ -30,6 +30,8 @@
    <a href="mailto:joaovitor1111@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
 </div>
+<br/>
+![Snake animation](https://github.com/joaovrmdev/joaovrmdev/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
