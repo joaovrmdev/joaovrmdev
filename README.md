@@ -2,7 +2,7 @@
 - 😄 Pronomes: ...<br/>
         ele/dele
 
-- 🔭 Open to work ...
+- 🔭 Estagiário - Triggo.ai...
 - 🌱 O que ando estudando...<br/>
         - C<br/>
         - JAVA<br/>
